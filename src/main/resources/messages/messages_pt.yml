@@ -30,7 +30,7 @@ tempban_max_logins: '&cVocê foi temporariamente banido por falhar muitas vezes 
 # TODO: Missing tags %reg_names
 max_reg: '&cAtingiu o numero máximo de %reg_count contas registas, maximo de contas %max_acc'
 no_perm: '&cSem Permissões'
-error: '&fOcorreu um erro; Por favor contacte um admin'
+error: '&fOcorreu um erro; Por favor contacte um administrador'
 unsafe_spawn: '&fA sua localização na saída não é segura, será tele-portado para a Spawn'
 kick_forvip: '&cUm jogador VIP entrou no servidor cheio!'
 
@@ -83,7 +83,7 @@ email_exists: '&cUm e-mail de recuperação já foi enviado! Pode descartá-lo e
 email_show: '&2O seu endereço de email atual é &f%email'
 incomplete_email_settings: 'Erro: nem todas as definições necessarias para enviar email foram preenchidas. Please contact an admin.'
 email_already_used: '&4O endereço de e-mail já está sendo usado'
-email_send_failure: 'Não foi possivel enviar o email. Por favor contate um administador.'
+email_send_failure: 'Não foi possivel enviar o email. Por favor contate um administrador.'
 show_no_email: '&2Você atualmente não tem um endereço de email associado a essa conta.'
 add_email: '&cPor favor adicione o seu email com : /email add seuEmail confirmarSeuEmail'
 recovery_email: '&cPerdeu a sua password? Para a recuperar escreva /email recovery <seuEmail>'
